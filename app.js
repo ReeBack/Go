@@ -1,3 +1,3 @@
-var car = "go" + " " + "car";
+var car = "Go";
 
 console.log(car);
