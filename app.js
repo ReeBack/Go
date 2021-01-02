@@ -31,3 +31,8 @@ const car = "goo";
 console.log(car);
 
 console.log();
+
+var gooo = 1;
+const boy = "Jay";
+
+console.log(boy);
