@@ -1,49 +1,14 @@
-var games = "ty";
+// Javascript
 
-console.log();
-console.log(games);
+console.log("Dog and Cat ;)");
 
-var life = 100;
-var name = "Dev Ed";
+alert("Go and ty");
 
-console.log(life);
+document.write("age and t");
 
-life = 50;
+alert("Go");
 
-console.log(life);
+document.write("hy hi hehehehe");
 
-life = life - 10;
-
-console.log(life);
-
-var checkout = true;
-
-if (checkout) {
-    console.log(life);
-}
-
-var live = 100;
-console.log("Live " + live);
-
-document.getElementById = "hi";
-
-const car = "goo";
-console.log(car);
-
-console.log();
-
-var gooo = 1;
-const boy = "Jay";
-
-console.log(boy);
-
-
-document.write("<h1>I me a good.</h1>");
-
-
-
-document.write("Goooo");
-
-console.log("Go I GG");
-document.write("Dog");
-javascript
+var live = 1;
+console.log(live);
