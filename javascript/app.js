@@ -36,3 +36,14 @@ var gooo = 1;
 const boy = "Jay";
 
 console.log(boy);
+
+
+document.write("<h1>I me a good.</h1>");
+
+
+
+document.write("Goooo");
+
+console.log("Go I GG");
+document.write("Dog");
+javascript
