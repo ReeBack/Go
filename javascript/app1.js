@@ -8,3 +8,9 @@ if (num1 > num2) {
 } else {
     alert("bye bye");
 }
+
+var man = "Hi";
+
+for (i=1;i<5;i++) {
+    document.write("Go!<br>");
+}
